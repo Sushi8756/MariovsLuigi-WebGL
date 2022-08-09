@@ -1,3 +1,3 @@
 # MariovsLuigi-WebGL
 
-sushi8756.github.io/mariovsluigi-webgl/
+https://sushi8756.github.io/MariovsLuigi-WebGL/
